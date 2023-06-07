@@ -14,7 +14,9 @@
 
 Diseño y creación de la base de datos que conformará U-KNOW. 
 
-Se trata de una base de datos relacional que organiza los datos en 8 tablas, realizada con **MySQL** y **MYSQL WorkBench**.
+Se trata de una **base de datos relacional** que organiza los datos en **8 tablas** a través de **claves primarias y claves externas**. 
+
+Realizada con **MySQL** y **MYSQL WorkBench**.
 
 La tabla de **contenidos** es la tabla principal del esquema, en la que se almacenaría la información de cada curso disponible en la plataforma. Incluye las siguientes columnas: 
 - Id (llave primaria)
